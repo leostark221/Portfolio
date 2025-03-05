@@ -51,21 +51,6 @@ function Header() {
               <a href="#experience">Work Experiences</a>
             </li>
           )}
-          {viewOpenSource && (
-            <li>
-              <a href="#opensource">Open Source</a>
-            </li>
-          )}
-          {viewAchievement && (
-            <li>
-              <a href="#achievements">Achievements</a>
-            </li>
-          )}
-          {viewBlog && (
-            <li>
-              <a href="#blogs">Blogs</a>
-            </li>
-          )}
           {viewTalks && (
             <li>
               <a href="#talks">Talks</a>
@@ -77,7 +62,7 @@ function Header() {
             </li>
           )}
           <li>
-            <a href="#contact">Contact Me</a>
+            <a href="https://www.linkedin.com/in/ali-sher-34024b229/">Contact Me</a>
           </li>
           <li>
             {/* eslint-disable-next-line jsx-a11y/anchor-is-valid */}
