@@ -114,7 +114,7 @@ const educationInfo = {
       logo: require("./assets/images/szabist-logo.png"),
       subHeader: "Bachelors of Science in Computer Science",
       // duration: "September 2017 - April 2019",
-      desc: "Participated in the research of CIC IOT 2023.",
+      desc: "Developed ML models on the CIC IOT 2023 dataset.",
       descBullets: [
         "Trained Multiple Ml models on Adverserial Attacks",
         "Participated in Nasa Competition "
